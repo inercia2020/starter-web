@@ -12,6 +12,7 @@ Adding my new section for the comparison setup
 
 ## mmmm snacks
 
+CHOCOLATE
 do I want smoked celery and almond butter, or jicama with pine nuts or ???
 oh and yoga, and a bath and clean house incl vaccuming
 
