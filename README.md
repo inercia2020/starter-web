@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 oh good lord more text - rebasing ex
+oh look more changes from myfeature branch 2
 
 ## Deployment
 
