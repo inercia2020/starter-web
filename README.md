@@ -14,3 +14,7 @@ Adding my new section for the comparison setup
 
 do I want smoked celery and almond butter, or jicama with pine nuts or ???
 oh and yoga, and a bath and clean house incl vaccuming
+
+# yet another edit
+
+hey I like editing, how about you?
