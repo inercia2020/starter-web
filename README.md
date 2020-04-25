@@ -28,3 +28,7 @@ are we done editing yet?
 stage only stage
 
 # so done with this
+
+# copyright section
+
+notice me! lol
