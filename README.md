@@ -34,4 +34,4 @@ stage only stage
 
 # copyright section
 
-notice me! lol
+notice me! lol  All rights are mine to my time
